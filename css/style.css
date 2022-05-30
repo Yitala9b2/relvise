@@ -616,11 +616,11 @@ footer{
     margin: 0px 10px 0px 0px;
   }
   .beforeicon2::before {
-    content: url('/img/fourths_icons/map.png');
+    content: url('../img/fourths_icons/map.png');
     margin: 0px 10px 0px 0px;
   }
   .beforeicon3::before {
-    content: url('/img/fourths_icons/send.png');
+    content: url('../img/fourths_icons/send.png');
     margin: 0px 10px 0px 0px;
   }
   .footer__social {
