@@ -612,7 +612,7 @@ footer{
     margin-bottom: 10px;
   }
   .beforeicon1::before {
-    content: url('/img/fourths_icons/mobile_2.png');
+    content: url('../img/fourths_icons/mobile_2.png');
     margin: 0px 10px 0px 0px;
   }
   .beforeicon2::before {
